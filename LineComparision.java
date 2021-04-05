@@ -1,5 +1,3 @@
-package LinCom;
-
 public class Calculating_Length {
 
 	public static void main(String[] args){
