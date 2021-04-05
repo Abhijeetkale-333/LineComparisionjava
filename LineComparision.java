@@ -1,5 +1,3 @@
-package LinCom;
-
 public class EquityOfLines {
 	public static void main(String[] args) {
 	
